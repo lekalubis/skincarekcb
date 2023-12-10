@@ -1,0 +1,79 @@
+# normal
+Cleanser: Calm Down! Skinpair Bubble Cleanser
+Toner: SUPPLE POWER Hyaluronic9+ Onsen Essence Toner
+Serum: 10% Niacinamide Barrier Serum
+Moisturizer: CERAMIC SKIN Saviour Moisturizer Gel
+Peeling Serum: 10% Lactic + Glycolic Peeling Serum
+Sunscreen: Holyshield! Sunscreen Shake Mist SPF46 PA+++
+
+# berminyak
+Cleanser: Low pH Gentle Jelly Cleanser
+Toner: SUPPLE POWER Hyaluronic9+ Onsen Essence Toner
+Serum: Hylapore Away Solution
+Moisturizer: Supple Power Hyaluronic9 + Onsen Moisture Bomb Gel
+Peeling Serum: 10% Lactic + Glycolic Peeling Serum
+Sunscreen: Holyshield! UV Watery Sunscreen Gel SPF 50+ PA++++
+
+# berminyak_jerawat
+Cleanser: ACNEDOT Treatment Low pH Cleanser
+Toner: ACNEDOT Treatment Toner
+Serum: 2% BHA Salicylic Acid Acne Treatment
+Moisturizer: ACNEDOT Treatment Moisturizer Gel
+Peeling Serum: 10% Lactic + Glycolic Peeling Serum
+Sunscreen: Holyshield! UV Watery Sunscreen Gel SPF 50+ PA++++
+
+# berminyak_kusam
+Cleanser: Low pH Gentle Jelly Cleanser
+Toner: SUPPLE POWER Hyaluronic9+ Onsen Essence Toner
+Serum: 10% Niacinamide + Moisture Sabi Beet Max Brightening Serum
+Moisturizer: CERAMIC SKIN Saviour Moisturizer Gel
+Peeling Serum: 10% Lactic + Glycolic Peeling Serum
+Sunscreen: Holyshield! UV Watery Sunscreen Gel SPF 50+ PA++++
+
+# kering
+Cleanser: Low pH Gentle Jelly Cleanser
+Toner: SKIN GOALS Vita Propolis Glow Essence Toner
+Serum: Calm Down! Skinpair R-Cover Ampoule
+Moisturizer: Calm Down! Skinpair R-Cover Cream
+Peeling Serum: AHA BHA PHA Peeling Solution
+Sunscreen: Holyshield! Sunscreen Comfort Corrector Serum SPF 50+ PA++++
+
+# kering_jerawat
+Cleanser: ACNEDOT Treatment Low pH Cleanser
+Toner: ACNEDOT Treatment Toner
+Serum: 5% Niacinamide Barrier Serum
+Moisturizer: CERAMIC SKIN Saviour Moisturizer Gel
+Peeling Serum: 5% Mandelic Acid Mild Exfoliating Serum
+Sunscreen: Holyshield! Sunscreen Comfort Corrector Serum SPF 50+ PA++++
+
+# kering_kusam
+Cleanser: Low pH Gentle Jelly Cleanser
+Toner: SKIN GOALS Vita Propolis Glow Essence Toner
+Serum: HYALuronic9+ Advanced + B5 Serum
+Moisturizer: CERAMIC SKIN Saviour Moisturizer Gel
+Peeling Serum: AHA BHA PHA Peeling Solution
+Sunscreen: Holyshield! Sunscreen Comfort Corrector Serum SPF 50+ PA++++
+
+# sensitif
+Cleanser: Calm Down! Skinpair Bubble Cleanser
+Toner: SKIN GOALS Vita Propolis Glow Essence Toner
+Serum: RESURRECT Multibiome Serum
+Moisturizer: Calm Down! Skinpair R-Cover Cream
+Peeling Serum: 5% Mandelic Acid Mild Exfoliating Serum
+Sunscreen: Holyshield! Sunscreen Comfort Corrector Serum SPF 50+ PA++++
+
+# sensitif_jerawat
+Cleanser: ACNEDOT Treatment Low pH Cleanser
+Toner: ACNEDOT Treatment Toner
+Serum: 2% BHA Salicylic Acid Acne Treatment
+Moisturizer: CERAMIC SKIN Saviour Moisturizer Gel
+Peeling Serum: 5% Mandelic Acid Mild Exfoliating Serum
+Sunscreen: Holyshield! Sunscreen Comfort Corrector Serum SPF 50+ PA++++
+
+# sensitif_kusam
+Cleanser: Calm Down! Skinpair Bubble Cleanser
+Toner: SKIN GOALS Vita Propolis Glow Essence Toner
+Serum: DIAMOND PHYTO Stem Cell Serum
+Moisturizer: Calm Down! Skinpair R-Cover Cream
+Peeling Serum: 10% Lactic + Glycolic Peeling Serum
+Sunscreen: Holyshield! Sunscreen Comfort Corrector Serum SPF 50+ PA++++
